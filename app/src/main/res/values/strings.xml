@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="text">1234</string>
+    <string name="divide">/</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+</resources>
